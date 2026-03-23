@@ -1,6 +1,8 @@
 from person_interface import PersonInterface
 
-
+class Person:
+    """Person class implementation."""
+    pass
 class Person(PersonInterface):
     """Implementation of PersonInterface."""
     
